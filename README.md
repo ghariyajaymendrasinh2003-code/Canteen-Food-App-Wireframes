@@ -17,6 +17,4 @@ This repository contains the wireframes and user research for a mobile app desig
 ## 🛠️ Tools Used
 Figma for wireframing, Google Docs for user research
 
----
-**Submitted for:** HCI Assignment - Mobile App Wireframing  
-**Date:** 10 May 2026
+
